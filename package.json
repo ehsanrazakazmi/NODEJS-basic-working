@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "nodejs crash cource code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "ehsan",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
